@@ -36,7 +36,7 @@ This project analyzes customer subscription data to understand patterns in engag
 
 ### 3. **Visits and Engagement**
 
-* Most customers visit 1–3 times per month
+* Most customers visit 4-5 times per month
 * Slight positive link between visit frequency and spending
 
 ### 4. **Correlation Matrix**
