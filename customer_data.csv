@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,City,Income,SpendingScore,Subscription,Churn,SignupDate,VisitsPerMonth
+1001,Male,49,San Francisco,84638,39,Basic,No,2023-04-29,1
+1002,Female,56,Houston,98666,67,Premium,No,2023-01-20,3
+1003,Male,66,Chicago,110067,45,Basic,No,2023-09-18,0
+1004,Male,69,Chicago,92215,13,Premium,No,2023-10-20,1
+1005,Male,49,San Francisco,94042,92,Gold,No,2023-09-13,1
+1006,Female,21,New York,38284,58,Gold,No,2023-08-10,3
+1007,Male,47,San Francisco,97789,20,Gold,No,2023-08-14,3
+1008,Male,54,New York,109664,92,Gold,No,2023-02-22,5
+1009,Male,40,Houston,118468,72,Gold,Yes,2023-12-21,2
+1010,Female,56,Chicago,86389,61,Basic,No,2023-12-08,4
+1011,Male,62,Houston,34435,39,Gold,No,2023-12-30,7
+1012,Male,32,New York,79340,1,Gold,Yes,2023-10-07,4
+1013,Male,60,New York,69078,3,Gold,Yes,2023-03-22,1
+1014,Male,46,Houston,103832,77,Gold,No,2023-07-21,4
+1015,Female,53,New York,76293,92,Premium,No,2023-06-07,4
+1016,Male,30,Houston,103781,62,Basic,No,2023-04-30,7
+1017,Female,49,Chicago,85403,63,Gold,Yes,2023-02-28,5
+1018,Female,24,Houston,54124,25,Gold,No,2023-08-03,2
+1019,Female,68,Chicago,68919,56,Gold,No,2023-05-08,4
+1020,Male,39,Houston,60247,33,Basic,Yes,2023-08-12,0
+1021,Female,45,New York,119758,38,Premium,Yes,2023-07-28,2
+1022,Male,19,Houston,116747,6,Basic,No,2023-04-25,4
+1023,Female,59,New York,87752,58,Premium,No,2023-07-28,10
+1024,Female,62,Houston,81573,44,Gold,No,2023-01-14,2
+1025,Female,23,Houston,84101,45,Gold,No,2023-01-09,3
+1026,Female,45,San Francisco,51646,32,Basic,No,2023-02-09,5
+1027,Female,45,New York,48049,45,Basic,No,2023-08-25,3
+1028,Female,61,San Francisco,104605,61,Premium,No,2023-10-08,4
+1029,Female,61,New York,93385,47,Premium,No,2023-12-25,3
+1030,Female,37,San Francisco,65158,21,Basic,No,2023-07-20,0
+1031,Male,47,Chicago,90417,80,Premium,No,2023-09-03,3
+1032,Male,28,Houston,48289,85,Basic,No,2023-10-05,5
+1033,Female,45,New York,34823,75,Premium,No,2023-08-23,4
+1034,Female,42,New York,85160,36,Basic,No,2023-01-04,3
+1035,Female,56,Houston,66975,99,Basic,No,2023-06-03,7
+1036,Male,50,New York,34540,19,Basic,No,2023-01-29,4
+1037,Female,18,New York,41364,20,Premium,No,2023-04-19,3
+1038,Male,44,San Francisco,29611,57,Premium,No,2023-04-08,6
+1039,Male,69,New York,52663,18,Premium,No,2023-08-03,3
+1040,Male,30,Chicago,76991,47,Basic,No,2023-10-20,8
+1041,Male,58,Chicago,82679,49,Premium,Yes,2023-03-16,6
+1042,Male,20,Houston,55977,14,Premium,No,2023-11-22,2
+1043,Female,56,New York,119704,15,Basic,No,2023-05-26,3
+1044,Female,23,Houston,74115,31,Gold,No,2023-05-08,5
+1045,Female,25,Chicago,116007,1,Basic,Yes,2023-12-07,0
+1046,Female,44,New York,113223,54,Premium,No,2023-02-11,4
+1047,Female,26,New York,85890,3,Basic,No,2023-12-22,4
+1048,Male,54,Houston,91387,16,Gold,No,2023-02-10,5
+1049,Female,50,Chicago,43071,87,Basic,No,2023-02-03,8
+1050,Female,68,New York,84275,57,Premium,No,2023-01-17,1
+1051,Male,59,Houston,97369,75,Gold,Yes,2023-06-14,5
+1052,Female,61,Chicago,36938,12,Premium,No,2023-06-02,4
+1053,Male,41,Houston,60195,74,Gold,No,2023-03-17,5
+1054,Female,32,San Francisco,116680,96,Gold,No,2023-03-28,6
+1055,Male,49,New York,29000,16,Basic,Yes,2023-04-27,8
+1056,Female,49,San Francisco,95588,72,Basic,No,2023-12-28,3
+1057,Female,41,Chicago,118610,76,Premium,No,2023-12-08,5
+1058,Male,58,San Francisco,63304,24,Basic,No,2023-01-27,6
+1059,Male,69,San Francisco,94449,28,Basic,No,2023-11-09,1
+1060,Male,66,Chicago,107986,8,Gold,No,2023-10-14,4
+1061,Male,66,Houston,114643,92,Basic,Yes,2023-05-14,3
+1062,Male,69,San Francisco,45764,36,Gold,No,2023-08-07,7
+1063,Male,29,Houston,111027,90,Gold,Yes,2023-06-17,4
+1064,Male,56,San Francisco,63494,8,Gold,No,2023-04-08,7
+1065,Male,19,Houston,28373,58,Premium,No,2023-09-25,5
+1066,Female,20,Chicago,37161,60,Premium,Yes,2023-08-25,5
+1067,Female,66,San Francisco,117658,50,Premium,No,2023-11-05,2
+1068,Male,54,Chicago,52350,28,Gold,No,2023-06-22,4
+1069,Female,66,San Francisco,118008,92,Premium,No,2023-07-09,3
+1070,Female,34,Chicago,119297,41,Premium,No,2023-05-02,4
+1071,Female,66,Chicago,50351,64,Basic,No,2023-02-15,5
+1072,Female,19,San Francisco,113668,27,Premium,No,2023-03-05,5
+1073,Male,19,San Francisco,40305,63,Premium,No,2023-05-10,7
+1074,Female,45,San Francisco,100353,17,Gold,No,2023-11-06,2
+1075,Male,40,New York,101797,73,Gold,Yes,2023-12-29,2
+1076,Female,54,Houston,90953,33,Gold,No,2023-07-12,3
+1077,Female,49,New York,82458,84,Gold,No,2023-11-03,3
+1078,Female,50,New York,45358,77,Gold,No,2023-06-30,2
+1079,Male,18,Chicago,28267,92,Gold,No,2023-10-19,5
+1080,Female,36,San Francisco,107745,29,Premium,No,2023-10-09,2
+1081,Male,19,Houston,114588,13,Gold,Yes,2023-01-29,3
+1082,Female,61,Chicago,63513,46,Gold,No,2023-05-29,3
+1083,Male,43,New York,51092,35,Basic,No,2023-09-24,5
+1084,Female,49,San Francisco,36338,6,Premium,No,2023-10-23,4
+1085,Male,23,Chicago,25412,82,Premium,Yes,2023-01-11,8
+1086,Male,49,San Francisco,32543,69,Premium,No,2023-06-13,5
+1087,Female,21,Chicago,58496,47,Gold,No,2023-04-23,3
+1088,Male,28,San Francisco,85692,25,Gold,No,2023-07-06,7
+1089,Female,34,New York,114084,66,Gold,No,2023-10-22,5
+1090,Female,55,Houston,117920,10,Basic,No,2023-08-20,4
+1091,Female,41,New York,69425,56,Gold,No,2023-08-15,5
+1092,Female,22,Houston,63756,30,Basic,Yes,2023-11-06,5
+1093,Female,69,San Francisco,43888,5,Premium,No,2023-04-08,4
+1094,Female,51,Chicago,60735,33,Gold,No,2023-02-24,6
+1095,Female,23,New York,72295,65,Basic,No,2023-04-21,5
+1096,Female,39,Houston,108042,18,Basic,No,2023-06-01,5
+1097,Female,28,New York,110999,96,Gold,No,2023-09-03,3
+1098,Female,65,Houston,42955,49,Premium,No,2023-03-10,6
+1099,Female,33,New York,62841,11,Premium,No,2023-11-08,4
+1100,Male,50,Houston,95640,85,Premium,Yes,2023-10-16,3
+1101,Male,26,Houston,90510,26,Basic,No,2023-09-07,1
+1102,Female,23,San Francisco,59911,63,Basic,No,2023-02-05,5
+1103,Female,33,Houston,84031,89,Basic,Yes,2023-08-27,5
+1104,Female,46,San Francisco,113726,86,Basic,No,2023-05-28,6
+1105,Female,20,Houston,32357,59,Premium,No,2023-08-15,3
+1106,Female,37,Chicago,57479,27,Gold,No,2023-09-01,3
+1107,Female,53,Chicago,86476,49,Basic,No,2023-12-03,4
+1108,Female,36,Chicago,69811,77,Basic,No,2023-12-31,3
+1109,Female,43,Houston,61208,33,Premium,Yes,2023-07-20,3
+1110,Male,20,San Francisco,45150,98,Gold,No,2023-06-03,6
+1111,Female,36,San Francisco,96180,99,Gold,No,2023-03-14,5
+1112,Male,37,Houston,68286,1,Premium,Yes,2023-07-20,3
+1113,Female,49,Chicago,93450,21,Premium,No,2023-10-23,4
+1114,Female,24,Chicago,46352,55,Gold,No,2023-01-17,2
+1115,Male,69,San Francisco,80069,6,Basic,No,2023-05-09,5
+1116,Female,58,Chicago,39397,92,Gold,No,2023-08-05,4
+1117,Male,50,New York,66555,81,Premium,No,2023-03-02,3
+1118,Female,57,San Francisco,71959,69,Basic,No,2023-04-14,4
+1119,Female,56,Chicago,25728,95,Basic,No,2023-02-11,2
+1120,Male,35,San Francisco,75517,5,Premium,No,2023-01-25,3
+1121,Female,57,New York,91234,3,Premium,No,2023-02-08,5
+1122,Male,18,San Francisco,64954,53,Premium,No,2023-10-18,1
+1123,Female,28,San Francisco,72280,23,Gold,Yes,2023-05-11,3
+1124,Male,45,San Francisco,104459,53,Gold,Yes,2023-08-17,6
+1125,Male,42,San Francisco,41779,37,Basic,No,2023-04-18,6
+1126,Female,67,New York,88932,74,Premium,No,2023-06-21,5
+1127,Female,40,Houston,97936,74,Basic,No,2023-04-12,2
+1128,Male,48,San Francisco,49466,83,Basic,No,2023-12-20,4
+1129,Female,47,San Francisco,61939,17,Basic,No,2023-01-12,4
+1130,Female,59,Chicago,94896,85,Basic,No,2023-10-02,6
+1131,Female,52,San Francisco,60270,78,Premium,Yes,2023-04-11,3
+1132,Male,24,Chicago,84163,73,Basic,No,2023-02-13,5
+1133,Male,33,Houston,107637,1,Premium,Yes,2023-11-01,1
+1134,Male,43,New York,76934,51,Premium,No,2023-01-17,0
+1135,Male,65,New York,89895,45,Gold,Yes,2023-11-26,4
+1136,Male,69,Houston,57307,77,Premium,No,2023-02-26,4
+1137,Male,66,New York,79098,4,Gold,Yes,2023-11-07,2
+1138,Male,19,Houston,85921,62,Premium,No,2023-10-30,4
+1139,Male,18,Houston,30486,65,Premium,No,2023-01-12,3
+1140,Male,65,Houston,33335,32,Premium,No,2023-11-14,6
+1141,Female,29,New York,111900,34,Gold,Yes,2023-03-21,3
+1142,Male,22,Chicago,114112,92,Gold,No,2023-08-04,3
+1143,Female,54,Houston,36130,95,Basic,No,2023-12-05,5
+1144,Female,49,San Francisco,112508,72,Gold,No,2023-09-21,4
+1145,Female,26,New York,85566,39,Gold,No,2023-05-29,1
+1146,Male,58,Houston,91703,26,Gold,Yes,2023-03-22,4
+1147,Male,52,Houston,52192,34,Gold,Yes,2023-08-03,3
+1148,Male,36,San Francisco,26062,54,Basic,No,2023-07-17,6
+1149,Male,65,Chicago,109076,3,Gold,No,2023-07-19,4
+1150,Female,33,Chicago,114780,50,Premium,Yes,2023-01-25,6
+1151,Male,20,Chicago,46545,12,Premium,No,2023-03-30,4
+1152,Male,37,Houston,46689,65,Gold,No,2023-09-25,3
+1153,Male,41,Houston,36174,54,Gold,No,2023-05-23,4
+1154,Male,50,Houston,113461,5,Premium,No,2023-02-28,8
+1155,Male,41,New York,34348,94,Premium,No,2023-12-31,3
+1156,Female,69,San Francisco,48714,94,Basic,No,2023-01-26,4
+1157,Male,28,Houston,63102,57,Premium,Yes,2023-02-16,2
+1158,Female,66,San Francisco,99460,17,Premium,Yes,2023-10-15,2
+1159,Male,25,San Francisco,114930,47,Gold,No,2023-09-23,4
+1160,Female,53,Chicago,31801,23,Premium,No,2023-01-16,4
+1161,Male,55,New York,97267,79,Basic,No,2023-07-18,2
+1162,Male,57,Houston,73136,85,Premium,No,2023-10-09,2
+1163,Female,37,Chicago,48625,14,Gold,No,2023-03-27,3
+1164,Female,52,Chicago,107873,66,Gold,No,2023-09-07,4
+1165,Female,65,Houston,97592,75,Premium,Yes,2023-09-27,6
+1166,Male,42,San Francisco,102052,51,Gold,Yes,2023-12-01,4
+1167,Female,52,Chicago,69261,38,Basic,No,2023-04-27,1
+1168,Male,42,San Francisco,26542,64,Basic,No,2023-01-07,4
+1169,Male,46,New York,46677,98,Premium,Yes,2023-05-17,4
+1170,Female,35,San Francisco,71732,38,Premium,No,2023-06-25,5
+1171,Female,63,New York,75343,50,Premium,No,2023-11-24,1
+1172,Male,35,San Francisco,64081,98,Gold,No,2023-11-11,5
+1173,Male,19,Chicago,87856,82,Basic,Yes,2023-08-03,6
+1174,Female,52,Chicago,118105,30,Basic,Yes,2023-03-23,9
+1175,Female,33,New York,113858,79,Gold,No,2023-08-11,0
+1176,Female,58,Houston,44065,91,Basic,Yes,2023-04-13,7
+1177,Male,53,New York,108460,51,Premium,No,2023-09-30,4
+1178,Male,50,New York,113092,63,Premium,No,2023-01-14,1
+1179,Male,21,San Francisco,79693,98,Premium,Yes,2023-06-08,1
+1180,Male,50,San Francisco,51962,52,Basic,No,2023-06-01,2
+1181,Male,31,New York,53295,38,Premium,No,2023-04-18,4
+1182,Male,38,Chicago,38807,97,Gold,No,2023-07-07,2
+1183,Female,65,San Francisco,67348,88,Gold,No,2023-10-28,3
+1184,Male,37,Houston,51432,79,Basic,No,2023-04-08,4
+1185,Male,25,San Francisco,108285,30,Gold,No,2023-05-11,5
+1186,Male,24,San Francisco,116792,51,Gold,No,2023-10-20,3
+1187,Female,20,Houston,82854,81,Basic,No,2023-06-20,5
+1188,Male,34,New York,65262,5,Premium,No,2023-07-02,7
+1189,Male,50,Houston,62080,29,Premium,Yes,2023-12-30,6
+1190,Female,65,New York,26324,4,Premium,Yes,2023-02-08,4
+1191,Male,29,New York,116267,10,Basic,No,2023-01-15,6
+1192,Male,68,New York,60909,56,Gold,Yes,2023-01-04,4
+1193,Male,39,Houston,114339,17,Premium,Yes,2023-12-15,1
+1194,Male,39,New York,44870,74,Premium,No,2023-07-29,4
+1195,Male,63,Chicago,59578,17,Basic,No,2023-06-10,1
+1196,Female,47,Houston,97124,84,Premium,No,2023-01-16,1
+1197,Female,55,Chicago,51790,88,Basic,No,2023-04-18,6
+1198,Female,55,New York,50289,69,Gold,No,2023-11-07,2
+1199,Male,62,San Francisco,80129,34,Basic,No,2023-08-15,5
+1200,Male,68,New York,118714,6,Basic,No,2023-06-19,3
